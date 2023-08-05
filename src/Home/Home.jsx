@@ -6,4 +6,4 @@ function Home() {
   )
 }
 
-export default Index
+export default Home
