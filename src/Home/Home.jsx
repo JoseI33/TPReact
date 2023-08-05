@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Index() {
+function Home() {
   return (
-    <div>Index</div>
+    <div>Home</div>
   )
 }
 
